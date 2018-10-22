@@ -1,0 +1,8 @@
+[package]
+name = "isitup"
+version = "0.1.0"
+authors = ["davemcg3 <dave.mcgrath3@gmail.com>"]
+
+[dependencies]
+reqwest = "0.9.3"
+
